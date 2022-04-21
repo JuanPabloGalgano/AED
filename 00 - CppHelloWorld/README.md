@@ -2,4 +2,4 @@ Hello World!
 
 - Para el trabajo 00 - CppHelloworld decidi utilizar el IDE CLion
 - Compilador Mingw
-- C++ 20
+- Version del lenguaje C++ 20
